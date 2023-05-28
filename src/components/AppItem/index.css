@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button {
+  background-color: white;
+  width: 35%;
+}
+.img {
+  width: 30%;
+  margin: 16px;
+}

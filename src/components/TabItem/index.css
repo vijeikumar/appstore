@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.tab-items {
+  display: flex;
+}
+.normal-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  margin-right: 8px;
+  font-size: 22px;
+  color: #7b8794;
+}
+.active-button {
+  text-decoration: underline;
+  color: #2563eb;
+  outline: none;
+  border: none;
+  font-size: 22px;
+  background-color: transparent;
+}
